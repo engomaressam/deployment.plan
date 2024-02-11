@@ -1,5 +1,4 @@
-dash
-dash_bootstrap_components
+dash==2.14.0
 openpyxl
 pandas
 plotly
